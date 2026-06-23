@@ -58,20 +58,24 @@ Analyse des données de santé publique françaises et création d'un tableau de
 - Power BI
 - Data Visualisation
 
-🚧 En cours de réalisation
+✅ Projet terminé
 
 ---
 
-### 🔄 Projet 2 - Pipeline Data Santé
-Création d'un pipeline automatisé d'extraction, transformation et chargement de données santé.
+### 🔄 Projet 2 - Analyse de données médicales / épidémiologiques
+
+🧠 Analyse des facteurs de risque des AVC (Stroke Prediction)
+L'objectif est d'explorer les données patients afin d'identifier les caractéristiques associées au risque d'AVC et de construire un tableau de bord interactif destiné à l'aide à la décision.
+
 
 **Compétences :**
-- API
-- Python
-- SQL
-- ETL
+- statistiques
+- recherche clinique
+- visualisation
+- 
+Technologies : Python • Pandas • SQL • Power BI
 
-🚧 À venir
+🚧 En cours de réalisation
 
 ---
 
