@@ -1,9 +1,9 @@
 # portfolio-data-sante
 # 👋 Bonjour et bienvenue sur mon Portfolio Data Santé
 
-Je suis analyste de données en reconversion spécialisée dans l'analyse de données de santé, l'épidémiologie et la Business Intelligence.
+Je suis analyste de données en reconversion spécialisée dans l'analyse de données, l'épidémiologie et la Business Intelligence.
 
-Mon objectif est de transformer les données de santé en indicateurs pertinents pour l'aide à la décision grâce à Python, SQL et Power BI.
+Mon objectif est de transformer les données en indicateurs pertinents pour l'aide à la décision grâce à Python, SQL et Power BI.
 
 ---
 
@@ -75,7 +75,7 @@ L'objectif est d'explorer les données patients afin d'identifier les caractéri
 - 
 Technologies : Python • Pandas • SQL • Power BI
 
-🚧 En cours de réalisation
+✅ Projet terminé
 
 ---
 
@@ -88,7 +88,13 @@ Analyse des admissions, du taux d'occupation des lits et des temps d'attente.
 - Power BI
 - Storytelling Data
 
-🚧 À venir
+✅ Projet terminé
+
+---
+### 🔄 Divers Projets en cours
+
+---
+
 
 ---
 
